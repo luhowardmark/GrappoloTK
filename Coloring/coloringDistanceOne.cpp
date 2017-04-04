@@ -1,5 +1,5 @@
 // **************************************************************************************************
-// Grappolo: A C++ library for parallel graph community detection
+// GrappoloTK: A C++ library for parallel graph coloring
 // Hao Lu, Ananth Kalyanaraman (hao.lu@wsu.edu, ananth@eecs.wsu.edu) Washington State University
 // Mahantesh Halappanavar (hala@pnnl.gov) Pacific Northwest National Laboratory
 //
