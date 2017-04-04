@@ -4,6 +4,8 @@ Community detection is a widely-used operation in graph theory. The goal is to p
 
 
 Papers to refer:
+
+
 Lu, Hao, Mahantesh Halappanavar, and Ananth Kalyanaraman. "Parallel heuristics for scalable community detection." Parallel Computing 47 (2015): 19-37.
 
 
