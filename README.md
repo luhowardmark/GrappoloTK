@@ -12,7 +12,9 @@ PAPER CITATIONS
 If you use the Grappolo-TK implementations, please cite the following papers:
 
 (Community Detection)
+
 H. Lu, M. Halappanavar, A. Kalyanaraman. Parallel heuristics for scalable community detection. Parallel Computing, vol. 47, pp. 19-37, 2015, DOI: 10.1016/j.parco.2015.03.003.
 
 (Balanced Graph Coloring)
-H. Lu, M. Halappanavar, D. Chavarria-Miranda, A. Gebremedhin, A. Panyala, A. Kalyanaraman. Algorithms for Balanced Colorings with Applications in Parallel Computing. IEEE Transactions on Parallel and Distributed Processing Symposium, vol. 28, no. 5, pp. 1240-1256, May 1 2017. doi: 10.1109/TPDS.2016,2620142. 
+
+H. Lu, M. Halappanavar, D. Chavarria-Miranda, A. Gebremedhin, A. Panyala, A. Kalyanaraman. Algorithms for Balanced Colorings with Applications in Parallel Computing. IEEE Transactions on Parallel and Distributed Processing Symposium, vol. 28, no. 5, pp. 1240-1256, May 1 2017, DOI: 10.1109/TPDS.2016,2620142. 
