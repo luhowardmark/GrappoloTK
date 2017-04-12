@@ -8,6 +8,7 @@ Balanced graph coloring: Distance-1 coloring is a color assignment to the vertic
 
 
 Paper Citations:
+
 If you use the Grappolo-TK implementations, please cite the following papers:
 
 (Community Detection)
