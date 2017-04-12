@@ -7,7 +7,7 @@ Community detection: Community detection is a widely-used operation in graph the
 Balanced graph coloring: Distance-1 coloring is a color assignment to the vertices of a graph such that no two adjacent vertices (i.e., connected by an edge) are assigned the same color. Traditional methods for coloring try to minimize the number of colors. However, in the context of many parallel processing applications, it also becomes important to obtain a balanced distribution of the color sizes. In this package, we provide various heuristics for obtaining a balanced coloring. These heuristics are described in (Lu et al. IPDPS'15, Lu et al. TPDS'17). The default variant of balanced coloring that is supported is "Vertex First-Fit (VFF)".  The balanced coloring code is multithreaded.
 
 
-Paper Citations:
+Paper Citations
 
 If you use the Grappolo-TK implementations, please cite the following papers:
 
