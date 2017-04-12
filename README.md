@@ -17,4 +17,4 @@ H. Lu, M. Halappanavar, A. Kalyanaraman. Parallel heuristics for scalable commun
 
 (Balanced Graph Coloring)
 
-H. Lu, M. Halappanavar, D. Chavarria-Miranda, A. Gebremedhin, A. Panyala, A. Kalyanaraman. Algorithms for Balanced Colorings with Applications in Parallel Computing. IEEE Transactions on Parallel and Distributed Processing Symposium, vol. 28, no. 5, pp. 1240-1256, May 1 2017, DOI: 10.1109/TPDS.2016,2620142. 
+H. Lu, M. Halappanavar, D. Chavarria-Miranda, A. Gebremedhin, A. Panyala, A. Kalyanaraman. Algorithms for Balanced Colorings with Applications in Parallel Computing. IEEE Transactions on Parallel and Distributed Systems, vol. 28, no. 5, pp. 1240-1256, May 1 2017, DOI: 10.1109/TPDS.2016,2620142. 
